@@ -16,6 +16,11 @@ class bar extends StatelessWidget {
                 valueColor: const AlwaysStoppedAnimation(Colors.indigo),
                 minHeight: 20.0,
                 value: 0.5,
+
+
+
+
+                
               ),
             )
           ],
